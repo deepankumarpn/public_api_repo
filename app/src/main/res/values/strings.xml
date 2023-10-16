@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Public API App</string>
+    <string name="swipe_to_refresh">Swipe to get a new Chuck Norris joke.</string>
+</resources>
